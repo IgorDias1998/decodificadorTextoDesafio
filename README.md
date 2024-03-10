@@ -2,6 +2,9 @@
 Esse projeto foi feito como um desafio para conclusão da formação da Turma 6 - Iniciante em programação oferecido pelo programa
 Alura + ONE Oracle Next Education
 
+### Acesse o projeto logo abaixo:
+<a href="https://igordias1998.github.io/decodificadorTextoDesafio/">
+
 ### Projeto Desktop
 <img src="decodificador_desktop.png" alt="Projeto Desktop">
 
